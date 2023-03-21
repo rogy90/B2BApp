@@ -1,0 +1,379 @@
+{
+  "cookies": [
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2023-03-15T15:10:43.623Z",
+      "domain": ".microblink.com",
+      "path": "/",
+      "expires": 1710429043,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.658622523.1678893044",
+      "domain": ".microblink.com",
+      "path": "/",
+      "expires": 1686669043,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Wed+Mar+15+2023+16%3A10%3A43+GMT%2B0100+(Central+European+Standard+Time)&version=6.33.0&isIABGlobal=false&hosts=&consentId=036c4bd3-d865-4cfb-8d17-a3f80ec20f9a&interactionCount=1&landingPath=NotLandingPage&groups=C0003%3A1%2CC0001%3A1%2CC0005%3A1%2CC0004%3A1%2CC0002%3A1",
+      "domain": ".microblink.com",
+      "path": "/",
+      "expires": 1710429043,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "test_cookie",
+      "value": "CheckForPermission",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1678893944.226865,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_uetsid",
+      "value": "8eae1c60c34311eda557dfc0a770dc3c",
+      "domain": ".microblink.com",
+      "path": "/",
+      "expires": 1678979444,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetvid",
+      "value": "8eae72c0c34311edbd82bb0d78a4a8e4",
+      "domain": ".microblink.com",
+      "path": "/",
+      "expires": 1712589044,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MUID",
+      "value": "14ED868D66A06CE82407945867116DCA",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1712589045.352096,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "visitorId",
+      "value": "460dbd19ffe67049610f90b64b4a1d34f53e34782bf253bbf5a30be7e7248f9f",
+      "domain": ".ws.zoominfo.com",
+      "path": "/",
+      "expires": 1710429044.492561,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "ecFLzlDJ8e8QDglCa729bWd7ZAnLnVovLGmKla1JvBk-1678893044-0-AffC1AxdPpzIUyMjaJayp9jJWHMvIs093Lg/afo4E2Br0z2S5Itg3Wh9EYskI9WDDctkEpB7kYdTWxT9xxpHKqc=",
+      "domain": ".zoominfo.com",
+      "path": "/",
+      "expires": 1678894844.492633,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "ySBNfmD6SAQrXsUZUSEafI2Foa89pq8FBE14mLHunlo-1678893044587-0-604800000",
+      "domain": ".zoominfo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ln_or",
+      "value": "eyIwIjoiZCJ9",
+      "domain": "developer.dev.microblink.com",
+      "path": "/",
+      "expires": 1678979444,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "UserMatchHistory",
+      "value": "AQK5aYB7HJn9SgAAAYbl0tRDEb0XOeICQ0_lOKZLAPIR3BDLD2ZxRvxHR3Mnaj8-9JhJUIUilOC0Vg",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1681485044.848218,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AnalyticsSyncHistory",
+      "value": "AQIZ7D9Yxrm7YgAAAYbl0tRDAK6SMaKFGc-EeZnylrN4sxKKG1jrWYdc0A1AmqPp724tX6VMKXxKlEcAVHb9xQ",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1681485044.848276,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&a7b4a5ec-6d1e-4cb0-8be2-577977c928a2\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1710429044.848308,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=OGST07:s=O:r=O:a=O:p=O:g=2502:u=1:x=1:i=1678893044:t=1678979444:v=2:sig=AQEAhVnj-dE7amiV6ltrWi0CKT1VhBTW\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1678979444.848351,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id",
+      "value": "s%3A0-d7192489-1701-573e-4fd8-b3913e6771c9.LOnmiYspnK%2BPJmlTy%2FhLhthAwYR6b9VuT203O89nDLA",
+      "domain": "tags.srv.stackadapt.com",
+      "path": "/",
+      "expires": 1710429044.913377,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v2",
+      "value": "s%3A1xkkiRcBVz5P2LORPmdxyY2KCl4.DSmLJIwUXob3elMrpm1W032hZCZN76aHiqA9U71k6GI",
+      "domain": "tags.srv.stackadapt.com",
+      "path": "/",
+      "expires": 1710429044.913425,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sa-user-id-v2",
+      "value": "s%3A1xkkiRcBVz5P2LORPmdxyY2KCl4.DSmLJIwUXob3elMrpm1W032hZCZN76aHiqA9U71k6GI",
+      "domain": ".srv.stackadapt.com",
+      "path": "/",
+      "expires": 1710429044.913456,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "guid",
+      "value": "guest",
+      "domain": "developer.dev.microblink.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_hp2_id.3669008654",
+      "value": "%7B%22userId%22%3A%224866790474215024%22%2C%22pageviewId%22%3A%221165707456143843%22%2C%22sessionId%22%3A%223121527618437886%22%2C%22identity%22%3Anull%2C%22trackerVersion%22%3A%224.0%22%7D",
+      "domain": ".microblink.com",
+      "path": "/",
+      "expires": 1712970645,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.1420215816.1678893044",
+      "domain": ".microblink.com",
+      "path": "/",
+      "expires": 1713453046.227483,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.207078017.1678893046",
+      "domain": ".microblink.com",
+      "path": "/",
+      "expires": 1678979446,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dc_gtm_UA-55635804-6",
+      "value": "1",
+      "domain": ".microblink.com",
+      "path": "/",
+      "expires": 1678893105,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-55635804-8",
+      "value": "1",
+      "domain": ".microblink.com",
+      "path": "/",
+      "expires": 1678893105,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sa-user-id",
+      "value": "s%253A0-d7192489-1701-573e-4fd8-b3913e6771c9.LOnmiYspnK%252BPJmlTy%252FhLhthAwYR6b9VuT203O89nDLA",
+      "domain": "developer.dev.microblink.com",
+      "path": "/",
+      "expires": 1710429045,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sa-user-id-v2",
+      "value": "s%253A1xkkiRcBVz5P2LORPmdxyY2KCl4.DSmLJIwUXob3elMrpm1W032hZCZN76aHiqA9U71k6GI",
+      "domain": "developer.dev.microblink.com",
+      "path": "/",
+      "expires": 1710429045,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&202303151510459fa2ddf5-8569-42cf-80a8-591b9d00b841AQFMh9U12Kdk1MC_kOpzvEXXL0zUZePZ\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1710429045.739811,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "li_gc",
+      "value": "MTswOzE2Nzg4OTMwNDU7MjswMjHZMMOH2OYBDOOZxkNBjhWJE6izvlNC2GXlJ1bKdZPzyA==",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1694445045.73989,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hp2_ses_props.3669008654",
+      "value": "%7B%22ts%22%3A1678893045524%2C%22d%22%3A%22developer.dev.microblink.com%22%2C%22h%22%3A%22%2F%22%7D",
+      "domain": ".microblink.com",
+      "path": "/",
+      "expires": 1678894846,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "rum=1&id=481635a3-601a-4641-be69-9c2142bc1f80&created=1678893042748&expire=1678893946196",
+      "domain": "developer.dev.microblink.com",
+      "path": "/",
+      "expires": 1678893947,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": ".AspNetCore.Antiforgery.w3E07LuAov0",
+      "value": "CfDJ8A4ghbi4165PpRiWY4avswlRj2COPBpNsDC4QK-gu_KAugOO99t_raAvdWiZ91ysgMIrdHxa4fO9z2VTk-CJawQ92-TYkRN-XaM6AHGq1igUNpeo_z4KH1raRvPpjMphgvIpKGp2sOhc8VGAg4bJmJE",
+      "domain": "account.dev.microblink.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga_29B3XDMQBR",
+      "value": "GS1.1.1678893044.1.1.1678893048.0.0.0",
+      "domain": ".microblink.com",
+      "path": "/",
+      "expires": 1713453048.166281,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "idsrv.session",
+      "value": "3C3ABCA8C0496227C526174610F3EC5E",
+      "domain": "account.dev.microblink.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "idsrv.microblink",
+      "value": "CfDJ8A4ghbi4165PpRiWY4avswmeBDP0hlGrU5l3ptTgO1WCo6d-hWgaefrhNlBh0rgYA9TI1cBIoAAOg9_krZyX-PlhtKtQL2rLjjKF9LeBhtX4fWQIXdJTIALMdOX9Wo89wvUVaWTybFxPSyVkdNQuvAznJkSq7ZV1nZrgrcCUuPdE53Nt2Udkdpkc8Sh0tQ5sihEl6umq8dDohko7pD1CBj72Ha5h9Xd0W9JDmGfIRRQvUyuot9eYc_tLT2hnBe8Bd0gZqRqkB2CX5aNgJVnfdV8",
+      "domain": "account.dev.microblink.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://developer.dev.microblink.com",
+      "localStorage": [
+        {
+          "name": "sa-user-id",
+          "value": "s%3A0-d7192489-1701-573e-4fd8-b3913e6771c9.LOnmiYspnK%2BPJmlTy%2FhLhthAwYR6b9VuT203O89nDLA"
+        },
+        {
+          "name": "_uetsid_exp",
+          "value": "Thu, 16 Mar 2023 15:10:44 GMT"
+        },
+        {
+          "name": "sa-user-id-v2",
+          "value": "s%3A1xkkiRcBVz5P2LORPmdxyY2KCl4.DSmLJIwUXob3elMrpm1W032hZCZN76aHiqA9U71k6GI"
+        },
+        {
+          "name": "_uetvid",
+          "value": "8eae72c0c34311edbd82bb0d78a4a8e4"
+        },
+        {
+          "name": "_uetvid_exp",
+          "value": "Mon, 08 Apr 2024 15:10:44 GMT"
+        },
+        {
+          "name": "oidc.e5cbb59b5be0469f89c473fc75cd2f36",
+          "value": "{\"id\":\"e5cbb59b5be0469f89c473fc75cd2f36\",\"data\":{\"url\":\"https://developer.dev.microblink.com/\"},\"created\":1678893046,\"request_type\":\"si:r\",\"code_verifier\":\"749489c05e3c417384ad2465cc1d56b865b03d4e2ba64afa8a41c035af4ff4df4e27f7184648458bbcea6eb3bc9cb986\",\"redirect_uri\":\"https://developer.dev.microblink.com/_auth/callback\",\"authority\":\"https://account.dev.microblink.com\",\"client_id\":\"cd8b3f44-4e37-47f0-aedd-10babb83534d\",\"response_mode\":\"query\",\"scope\":\"openid profile dh.client\",\"extraTokenParams\":{}}"
+        },
+        {
+          "name": "_uetsid",
+          "value": "8eae1c60c34311eda557dfc0a770dc3c"
+        }
+      ]
+    }
+  ]
+}
